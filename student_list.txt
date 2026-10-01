@@ -1,11 +1,4 @@
-John
-Mary
-
-Peters
-
-Cosmas
-
-Sarah
-
-
-David
+Mary Wanjiku
+Peters Chuma
+Sarah Kimotho
+Cosmas Kiprotich - MSc Information Security
